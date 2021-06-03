@@ -1,3 +1,3 @@
 # Stock-Price-Retriever
 Basic Stock Price Retriever programmed in python.
-It uses pandas_datareader interface in order to retrieve the daily price of the given stock and store it on .csv format.
+It uses pandas_datareader interface in order to retrieve the daily price of the given stock and store it on .csv format. The source where the data is retrieved from is yahoo finance.
